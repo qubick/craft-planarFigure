@@ -1,0 +1,6 @@
+<craft>
+    <craft name="planar" src="./index.xml"/>
+    <row spacing="3"> 
+    	<planar type="cube" length="3"></planar>
+    </row> 
+</craft>
